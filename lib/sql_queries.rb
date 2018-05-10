@@ -1,5 +1,4 @@
 def selects_all_female_bears_return_name_and_age
-  binding.pry
   "Select name, age FROM bears WHERE bears.gender =Female"
 end
 
